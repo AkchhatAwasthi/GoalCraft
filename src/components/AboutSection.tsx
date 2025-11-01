@@ -36,15 +36,15 @@ const AboutSection = () => {
   }, []);
   const btsImages = [{
     id: 1,
-    src: pic1,
+    src: bts1,
     alt: "GoalCraft restaurant consultation in progress"
   }, {
     id: 2,
-    src: pic2,
+    src: bts2,
     alt: "Menu optimization session with restaurant team"
   }, {
     id: 3,
-    src: pic3,
+    src: bts3,
     alt: "Food photography and styling for online platforms"
   }, 
    //  {
@@ -92,7 +92,7 @@ const AboutSection = () => {
     alt: "Customer engagement strategy development"
   }, {
     id: 14,
-    src: pic4,
+    src: bts4,
     alt: "Revenue maximization planning session"
   }, {
     id: 15,
