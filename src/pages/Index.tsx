@@ -47,7 +47,7 @@ const Index = () => {
         <meta name="twitter:site" content="@goalcraft_consultants" />
       </Helmet>
       
-      <PollPopup />
+      {/* <PollPopup /> */}
       <Header />
       <main>
         <HeroSection />
