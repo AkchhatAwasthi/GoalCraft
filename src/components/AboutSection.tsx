@@ -92,7 +92,7 @@ const AboutSection = () => {
     alt: "Customer engagement strategy development"
   }, {
     id: 14,
-    src: bts4,
+    src: bts14,
     alt: "Revenue maximization planning session"
   }, {
     id: 15,
