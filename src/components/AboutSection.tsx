@@ -94,11 +94,13 @@ const AboutSection = () => {
     id: 14,
     src: bts14,
     alt: "Revenue maximization planning session"
-  }, {
-    id: 15,
-    src: bts15,
-    alt: "Final presentation of restaurant growth plan"
-  }];
+  }, 
+  //                    {
+  //   id: 15,
+  //   src: bts15,
+  //   alt: "Final presentation of restaurant growth plan"
+  // }
+                    ];
   return <section id="about-section" className="py-20 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className={`text-center mb-16 transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
