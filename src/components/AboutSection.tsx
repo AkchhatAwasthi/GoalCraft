@@ -46,11 +46,12 @@ const AboutSection = () => {
     id: 3,
     src: bts3,
     alt: "Food photography and styling for online platforms"
-  }, {
-    id: 4,
-    src: bts4,
-    alt: "Kitchen workflow analysis and optimization"
-   }, 
+  }, 
+   //  {
+   //  id: 4,
+   //  src: bts4,
+   //  alt: "Kitchen workflow analysis and optimization"
+   // }, 
     //{
   //   id: 5,
   //   src: bts5,
@@ -60,15 +61,16 @@ const AboutSection = () => {
   //   src: bts6,
   //   alt: "Restaurant operations strategy meeting"
   // }, 
+  // {
+  //   id: 7,
+  //   src: bts7,
+  //   alt: "Data analytics review for restaurant performance"
+  // }, {
+  //   id: 8,
+  //   src: bts8,
+  //   alt: "Team collaboration on restaurant growth strategies"
+  // }, 
   {
-    id: 7,
-    src: bts7,
-    alt: "Data analytics review for restaurant performance"
-  }, {
-    id: 8,
-    src: bts8,
-    alt: "Team collaboration on restaurant growth strategies"
-  }, {
     id: 9,
     src: bts9,
     alt: "On-site restaurant consultation and analysis"
