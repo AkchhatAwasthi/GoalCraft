@@ -52,7 +52,7 @@ const HeroSection = () => {
           <Button 
             variant="outline" 
             onClick={() => {
-              const aboutSection = document.getElementById('about-section');
+              const aboutSection = document.getElementById('how-we-work');
               aboutSection?.scrollIntoView({ behavior: 'smooth' });
             }}
             className="border-border text-foreground hover:bg-accent hover:text-accent-foreground text-base h-12 px-8 transition-all duration-200 hover:scale-105 min-h-[48px]"
