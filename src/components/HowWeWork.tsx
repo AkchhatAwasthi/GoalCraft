@@ -28,7 +28,7 @@ const HowWeWork = () => {
       <div className="max-w-7xl mx-auto space-y-16 relative z-10">
         <div className="text-center space-y-4 max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold tracking-tighter text-foreground">
-            How We Work
+            How W Work
           </h2>
           <p className="text-muted-foreground text-lg">
             Our proven 3-step process to transform your restaurant's online presence
