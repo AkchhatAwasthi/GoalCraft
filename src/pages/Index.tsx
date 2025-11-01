@@ -55,7 +55,7 @@ const Index = () => {
         <Services />
         <HowWeWork />
         <DashboardPreview />
-        <OurPartners />
+        {/* <OurPartners /> */}
         <MenuComparison />
         <AboutSection />
         <VideoTestimonials />
