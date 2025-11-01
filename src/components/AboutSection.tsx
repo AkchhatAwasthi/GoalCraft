@@ -50,15 +50,15 @@ const AboutSection = () => {
     id: 4,
     src: bts4,
     alt: "Kitchen workflow analysis and optimization"
-  }, {
-    id: 5,
-    src: bts5,
-    alt: "Digital menu engineering and design process"
-  }, {
-    id: 6,
-    src: bts6,
-    alt: "Restaurant operations strategy meeting"
-  }, {
+  // }, {
+  //   id: 5,
+  //   src: bts5,
+  //   alt: "Digital menu engineering and design process"
+  // }, {
+  //   id: 6,
+  //   src: bts6,
+  //   alt: "Restaurant operations strategy meeting"
+  // }, {
     id: 7,
     src: bts7,
     alt: "Data analytics review for restaurant performance"
