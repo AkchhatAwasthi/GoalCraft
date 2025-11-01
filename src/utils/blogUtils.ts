@@ -30,18 +30,18 @@ export const getBlogPosts = (): BlogPost[] => {
       bannerImage: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
       icon: "Users"
     },
-   {
-  id: "3",
-  slug: "How-to-grow-a-restaurant-business",
-  title: "How to grow a restaurant business",
-  description: "Discover actionable restaurant growth strategies to increase sales, attract loyal customers, and build your online presence in 2025.",
-  category: "Growth Strategy",
-  readTime: "8 min read",
-  author: "GoalCraft Team",
-  publishedDate: "2024-02-10T00:00:00Z",
-  bannerImage: "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800",
-  icon: "Utensils"
-}
+//    {
+//   id: "3",
+//   slug: "How-to-grow-a-restaurant-business",
+//   title: "How to grow a restaurant business",
+//   description: "Discover actionable restaurant growth strategies to increase sales, attract loyal customers, and build your online presence in 2025.",
+//   category: "Growth Strategy",
+//   readTime: "8 min read",
+//   author: "GoalCraft Team",
+//   publishedDate: "2024-02-10T00:00:00Z",
+//   bannerImage: "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800",
+//   icon: "Utensils"
+// }
 
   ];
 
