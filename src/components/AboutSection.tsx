@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import bts1 from '@/assets/bts-1.jpg';
-import bts2 from '@/assets/bts-2.jpg';
-import bts3 from '@/assets/bts-3.jpg';
+import bts1 from '@/assets/pic1.jpeg';
+import bts2 from '@/assets/pic2.jpeg';
+import bts3 from '@/assets/pic3.jpeg';
 import bts4 from '@/assets/bts-4.jpg';
 import bts5 from '@/assets/bts-5.jpg';
 import bts6 from '@/assets/bts-6.jpg';
@@ -12,7 +12,7 @@ import bts10 from '@/assets/bts-10.jpg';
 import bts11 from '@/assets/bts-11.jpg';
 import bts12 from '@/assets/bts-12.jpg';
 import bts13 from '@/assets/bts-13.jpg';
-import bts14 from '@/assets/bts-14.jpg';
+import bts14 from '@/assets/pic4.jpeg';
 import bts15 from '@/assets/bts-15.jpg';
 const AboutSection = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -36,15 +36,15 @@ const AboutSection = () => {
   }, []);
   const btsImages = [{
     id: 1,
-    src: bts1,
+    src: pic1,
     alt: "GoalCraft restaurant consultation in progress"
   }, {
     id: 2,
-    src: bts2,
+    src: pic2,
     alt: "Menu optimization session with restaurant team"
   }, {
     id: 3,
-    src: bts3,
+    src: pic3,
     alt: "Food photography and styling for online platforms"
   }, 
    //  {
@@ -92,7 +92,7 @@ const AboutSection = () => {
     alt: "Customer engagement strategy development"
   }, {
     id: 14,
-    src: bts14,
+    src: pic4,
     alt: "Revenue maximization planning session"
   }, {
     id: 15,
