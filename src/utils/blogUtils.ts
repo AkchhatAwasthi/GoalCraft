@@ -32,8 +32,8 @@ export const getBlogPosts = (): BlogPost[] => {
     },
    {
   id: "3",
-  slug: "How-to-grow-a-restaurant-business",
-  title: "How to grow a restaurant business",
+  slug: "How-to-grow-restaurant-on-zomato-and-swiggy.html",
+  title: "How-to-grow-restaurant-on-zomato-and-swiggy.html",
   description: "Discover actionable restaurant growth strategies to increase sales, attract loyal customers, and build your online presence in 2025.",
   category: "Growth Strategy",
   readTime: "8 min read",
