@@ -33,7 +33,7 @@ export const getBlogPosts = (): BlogPost[] => {
    {
   id: "3",
   slug: "How-to-grow-restaurant-on-zomato-and-swiggy.html",
-  title: "How-to-grow-restaurant-on-zomato-and-swiggy.html",
+  title: "How to Grow Food Business on Zomato and Swiggy – Proven Strategies",
   description: "Discover actionable restaurant growth strategies to increase sales, attract loyal customers, and build your online presence in 2025.",
   category: "Growth Strategy",
   readTime: "8 min read",
