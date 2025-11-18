@@ -21,7 +21,7 @@ export const getBlogPosts = (): BlogPost[] => {
     {
       id: "2",
       slug : "How-to-grow-a-restaurant-business",
-      title: "How to Grow Food Business on Zomato and Swiggy – Proven Strategies",
+      title: "Qick Tips to Grow on Zomato and Swiggy",
       description: "Your Growth Partner: Scale Your Food Business on Zomato and Swiggy",
       category: "Growth stategy",
       readTime: "7 min read",
