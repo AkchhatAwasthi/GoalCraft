@@ -59,8 +59,8 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-2 text-muted-foreground group hover:scale-105 transition-all duration-300">
                 <Mail className="h-4 w-4 group-hover:scale-110 transition-transform duration-300" />
-                <a href="mailto:info@goalcraft.com" className="hover:text-foreground transition-all duration-300 hover:translate-x-1">
-                  info@goalcraft.com
+                <a href="mailto:info@goalcraft.in" className="hover:text-foreground transition-all duration-300 hover:translate-x-1">
+                  info@goalcraft.in
                 </a>
               </div>
               <div className="flex items-center gap-2 text-muted-foreground group hover:scale-105 transition-all duration-300">
